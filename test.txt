@@ -1,12 +1,9 @@
 Hello 663380303-5
 
-<<<<<<< HEAD
 Hello from ukaๆ u ukaๆ
 
 Hello from ดาวอังคาร 
-=======
+
 Hello from DREAM
 
 Hello from Tonklaดาวอังคาร 
-
->>>>>>> facc1db3abbdf2d2713f1fdcc1c169b64098d037
